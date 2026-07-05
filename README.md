@@ -1,21 +1,21 @@
 # Todoist MCP Server
 
-> Connect AI assistants to Todoist via MCP — 35 tools for task management, project organization, and AI-powered productivity features.
+> Connect AI assistants to Todoist via MCP - 35 tools for task management, project organization, and AI-powered productivity features.
 
 **[Try it on Apify Store](https://apify.com/mrbridge/todoist-ai-assistant?fpr=mrbridge)** | Pay-per-event | Free tier available
 
 ## Features
 
 - **35 MCP tools** across 6 categories:
-  - **Tasks** (9 tools) — create, update, complete, reschedule, search
-  - **Projects** (5 tools) — create, list, archive, organize
-  - **Sections** (4 tools) — organize tasks within projects
-  - **Labels** (4 tools) — tag and filter tasks
-  - **Comments** (4 tools) — add context to tasks and projects
-  - **AI Features** (9 tools) — smart prioritization, focus mode, daily digest, natural language processing
+  - **Tasks** (9 tools) - create, update, complete, reschedule, search
+  - **Projects** (5 tools) - create, list, archive, organize
+  - **Sections** (4 tools) - organize tasks within projects
+  - **Labels** (4 tools) - tag and filter tasks
+  - **Comments** (4 tools) - add context to tasks and projects
+  - **AI Features** (9 tools) - smart prioritization, focus mode, daily digest, natural language processing
 - **Natural language date parsing** in 4 languages: English, French, Spanish, German
 - **Sub-500ms response time** after initial cold start
-- **Secure** — your Todoist token is stored encrypted on Apify, never sent to AI models
+- **Secure** - your Todoist token is stored encrypted on Apify, never sent to AI models
 - Works with **Claude Desktop, Claude Code, ChatGPT** and any MCP-compatible client
 
 ## Quick Start
@@ -50,13 +50,13 @@ Once connected, your AI assistant can handle prompts like:
 ## Security
 
 - Your Todoist token is stored server-side on Apify's encrypted infrastructure
-- The token is **never sent to AI models** — only used server-side for Todoist API calls
+- The token is **never sent to AI models** - only used server-side for Todoist API calls
 - The MCP server runs in Apify's secure sandbox with `limitedPermissions` enabled
 - Your Apify token in the URL authenticates your MCP connection only
 
 ## Pricing
 
-Pay-per-event — you only pay for the tools you actually use. The free tier gives you **$5 free credits every month**, enough for hundreds of tool calls.
+Pay-per-event - you only pay for the tools you actually use. The free tier gives you **$5 free credits every month**, enough for hundreds of tool calls.
 
 ## Links
 
@@ -65,9 +65,9 @@ Pay-per-event — you only pay for the tools you actually use. The free tier giv
 
 ## Related MCP Servers
 
-- [ESPN MCP Server](https://apify.com/mrbridge/espn-mcp-server?fpr=mrbridge) — Live scores, standings, and stats across 25+ sports leagues
-- [League of Legends MCP Server](https://apify.com/mrbridge/lol-mcp-server?fpr=mrbridge) — 13 tools for LoL player data, match history, and AI coaching
-- [Teamfight Tactics MCP Server](https://apify.com/mrbridge/teamfight-tactics-mcp-server---ai-game-analysis?fpr=mrbridge) — 10 tools for TFT compositions, augments, and AI coaching
+- [ESPN MCP Server](https://apify.com/mrbridge/espn-mcp-server?fpr=mrbridge) - Live scores, standings, and stats across 25+ sports leagues
+- [League of Legends MCP Server](https://apify.com/mrbridge/lol-mcp-server?fpr=mrbridge) - 13 tools for LoL player data, match history, and AI coaching
+- [Teamfight Tactics MCP Server](https://apify.com/mrbridge/teamfight-tactics-mcp-server---ai-game-analysis?fpr=mrbridge) - 10 tools for TFT compositions, augments, and AI coaching
 
 ---
 
