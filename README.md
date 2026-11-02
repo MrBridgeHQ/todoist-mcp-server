@@ -67,7 +67,7 @@ Pay-per-event - you only pay for the tools you actually use. The free tier gives
 
 - [ESPN MCP Server](https://apify.com/mrbridge/espn-mcp-server?fpr=mrbridge) - Live scores, standings, and stats across 25+ sports leagues
 - [League of Legends MCP Server](https://apify.com/mrbridge/lol-mcp-server?fpr=mrbridge) - 13 tools for LoL player data, match history, and AI coaching
-- [Teamfight Tactics MCP Server](https://apify.com/mrbridge/teamfight-tactics-mcp-server---ai-game-analysis?fpr=mrbridge) - 10 tools for TFT compositions, augments, and AI coaching
+- [Teamfight Tactics MCP Server](https://apify.com/mrbridge/tft-mcp-server) - 10 tools for TFT compositions, augments, and AI coaching
 
 ---
 
